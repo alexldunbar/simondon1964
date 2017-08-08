@@ -1,4 +1,4 @@
-# simondon1964
+# Simondon 1964 - Foundations of the Hylemorphic Model: Technology of the Capture of Form
 
 ----------------------------------------
 Author's Intorudction
@@ -21,8 +21,11 @@ August 2017
 ----------------------------------------
 Original Translations
 ----------------------------------------
+
 Part 1:  perma.cc/CSJ6-YQ6Q
+
 Part 2:  perma.cc/CPD3-FNVKAs
+
 ----------------------------------------
 
 For any enquiries please contact the author at <alexander.longworth-dunbar@student.manchester.ac.uk>.
