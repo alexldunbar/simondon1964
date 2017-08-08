@@ -1,7 +1,7 @@
 # Simondon 1964 - Foundations of the Hylemorphic Model: Technology of the Capture of Form
 
 ----------------------------------------
-Author's Intorudction
+Intorudction
 ----------------------------------------
 
 This project is a republishing of Taylor Adkins' 2007 translation of the first chapter of French philosopher Gilbert Simondon's original 1964 text 'L'individu et sa Genése Physico-Biologique' (The Physcio-Biological Genesis of the individual), published by Presses Universitaires de France in 1964.
@@ -14,17 +14,17 @@ In this context, then, any and all translations of Simondon's work into English 
 
 I hope this project is of use to anyone hoping to better grasp the thought of such a complex and influential thinker.
 
-Alexander Longworth-Dunbar
-University of Manchester
+Alexander Longworth-Dunbar  
+University of Manchester  
 August 2017
 
 ----------------------------------------
 Original Translations
 ----------------------------------------
 
-Part 1:  perma.cc/CSJ6-YQ6Q
+Part 1:  [perma.cc/CSJ6-YQ6Q](perma.cc/CSJ6-YQ6Q)
 
-Part 2:  perma.cc/CPD3-FNVKAs
+Part 2:  [perma.cc/CPD3-FNVKAs](perma.cc/CPD3-FNVKAs)
 
 ----------------------------------------
 
